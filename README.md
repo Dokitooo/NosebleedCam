@@ -2,13 +2,13 @@
 
 NosebleedCam gives the stock `nba2k14.exe` the *Nosebleeds* camera of the Nitrous exe, without replacing your exe. Pick *Camera = Nosebleeds* in the game's camera settings as usual. It is a [SLAM](https://github.com/Dokitooo/SLAM) mod.
 
-**Download:** [NosebleedCam.zip](https://github.com/Dokitooo/NosebleedCam/releases/latest/download/NosebleedCam.zip) (latest release) ·
+**Download:** [NosebleedCam_v1.0.zip](https://github.com/Dokitooo/NosebleedCam/releases/download/v1.0/NosebleedCam_v1.0.zip) (latest release) ·
 [all releases](https://github.com/Dokitooo/NosebleedCam/releases)
 
 ## Requirements
 
 - NBA 2K14 PC
-- [SLAM](https://github.com/Dokitooo/SLAM/releases/latest/download/SLAM.zip) 1.0.0 or newer
+- [SLAM](https://github.com/Dokitooo/SLAM/releases/download/v1.0.0/SLAM_v1.0.0.zip) 1.0.0 or newer
 
 ## Install
 
@@ -55,7 +55,7 @@ Every release lists the SHA-256 of the zip in `SHA256SUMS.txt` (also attached to
 Compare it with the hash of the file you downloaded:
 
 ```powershell
-Get-FileHash .\NosebleedCam.zip -Algorithm SHA256
+Get-FileHash .\NosebleedCam_v1.0.zip -Algorithm SHA256
 ```
 
 ```bash
